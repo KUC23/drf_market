@@ -74,8 +74,8 @@ new_spartamarket/
 └── manage.py    # Django 관리 스크립트
 ```
 ---
-## 웹페이지 구동 이미지
-
+## ERD
+![ERD](readme_image/drf_ERD.png)
 
 ---
 
